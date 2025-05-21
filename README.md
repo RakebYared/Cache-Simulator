@@ -20,8 +20,6 @@ This is a Java-based educational simulator that demonstrates how different cache
 
 ## 🖼️ Screenshot
 
-![Cache Simulator UI](assets/cache-simulator-ui.png)
-
 ![Screenshot 2025-05-21 114659](https://github.com/user-attachments/assets/fc2536d8-1407-4f02-9373-65833d2b055e)
 
 ![Screenshot 2025-05-21 114812](https://github.com/user-attachments/assets/db8f6fc6-a6dd-4e0c-9582-0f32cfe1d0db)
